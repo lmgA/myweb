@@ -1,0 +1,58 @@
+.list_con {
+    width: 980px;
+    background: #ffffff;
+    margin: 11px auto 0;
+}
+.list_con_tl {
+    width: 8px;
+    height: 102px;
+    background: url("../images/con_tl.jpg") no-repeat;
+    float: left;
+}
+.list_con_tc {
+    width: 958px;
+    background: #ffffff;
+    float: left;
+    padding: 10px 3px 0;
+}
+.list_l {
+    width: 214px;
+    float: left;
+}
+.list_lt ul {
+    width: 198px;
+    border-left: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+    background: #f4f4f4;
+    margin: 0 auto;
+}
+.list_lt ul li {
+    height: 32px;
+    line-height: 32px;
+    background: url("../images/line03.jpg") no-repeat left bottom;
+}
+.list_lt ul li a {
+    color: #333;
+    background: url("../images/saojiao.jpg") no-repeat left center;
+    margin-left: 10px;
+    padding-left: 16px;
+}
+.list_lt span {
+    width: 200px;
+    height: 33px;
+    background: url("../images/shadow.jpg") no-repeat;
+    display: block;
+    margin: 0 auto;
+}
+.list_r {
+    width: 734px;
+    height: 400px;
+    background: red;
+    float: right;
+}
+.list_con_tr {
+    width: 8px;
+    height: 102px;
+    background: url("../images/con_tr.jpg") no-repeat;
+    float: left;
+}

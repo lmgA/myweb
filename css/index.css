@@ -1,0 +1,126 @@
+
+/*con¿ªÊ¼*/
+.con {
+    width: 980px;
+    height: 313px;
+    margin: 11px auto 0;
+}
+.con_t {
+    width: 980px;
+    height: 102px;
+    border-bottom: 1px solid #ccc;
+}
+.con_tl {
+    width: 8px;
+    height: 102px;
+    background: url("../images/con_tl.jpg") no-repeat;
+    float: left;
+}
+.con_tc {
+    width: 964px;
+    height: 102px;
+    background: #ffffff;
+    float: left;
+}
+.con_tc li {
+    float: left;
+    width: 237px;
+    height: 85px;
+    background: url("../images/con_libg.jpg") no-repeat;
+    margin: 10px 5px 0 0;
+}
+.con_tc .nomargin {
+    margin-right: 0;
+}
+.con_tc li h2 {
+    width: 94px;
+    height: 25px;
+    margin: 11px 0 0 15px;
+}
+.con_tc li p {
+    margin-left: 53px;
+}
+.con_tr {
+    width: 8px;
+    height: 102px;
+    background: url("../images/con_tr.jpg") no-repeat;
+    float: left;
+}
+.con_b {
+    width: 980px;
+    height: 210px;
+    background: url("../images/con_bbg.jpg") repeat-x;
+}
+.con_bl {
+    width: 322px;
+    height: 210px;
+    background: url("../images/line.jpg") no-repeat right top;
+    float: left;
+}
+.con_blt h3 {
+    width: 186px;
+    height: 38px;
+    background: url("../images/gywm.jpg") no-repeat;
+    float: left;
+    margin: 11px 0 0 8px;
+}
+.con_blt span {
+    width: 34px;
+    height: 20px;
+    background: url("../images/more.jpg") no-repeat;
+    float: right;
+    margin: 20px 10px 0 0;
+}
+.con_blb dl {
+    margin-top: 23px;
+}
+.con_blb dt {
+    margin-left: 11px;
+    float: left;
+}
+.con_blb dd {
+    float: right;
+    width: 189px;
+    color: #606060;
+    line-height: 20px;
+}
+.con_blb dd a {
+    color: green;
+}
+.con_blb img {
+    border: 1px solid #cccccc;
+    padding: 2px;
+}
+.con_bc{
+    width: 408px;
+    height: 210px;
+    background: url("../images/line.jpg") no-repeat right top;
+    float: left;
+}
+.con_bc ul {
+    margin-top: 23px;
+}
+.con_bc ul li {
+    width: 122px;
+    text-align: center;
+    margin-left: 9px;
+    float: left;
+}
+.con_bc ul li a {
+    color: #606060;
+}
+.con_br {
+    width: 250px;
+    height: 210px;
+    float: left;
+}
+.con_br p {
+    margin: 23px 0 0 15px;
+    color: #606060;
+    line-height: 20px;
+}
+
+
+
+
+
